@@ -5,3 +5,6 @@ I recreated our architectural diagram of what we plan to build.
 
 I created a zero spend budget and a 5 usd billing alarm.
 ![Screenshot of the budget I created](https://user-images.githubusercontent.com/52851083/221239272-08eda4f6-db07-4dd4-acc1-ca4cf3a64334.png)
+
+I created an IAM user and granted permissions to the user.
+![Screenshot of the created IAM user](https://user-images.githubusercontent.com/52851083/221260445-9e924a29-b306-4c00-b942-f517a2475ed1.png)
