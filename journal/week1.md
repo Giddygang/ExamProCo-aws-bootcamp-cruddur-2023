@@ -1,1 +1,12 @@
-# Week 1 — App Containerization
+![Screenshot_9](https://user-images.githubusercontent.com/52851083/223358196-0b550d52-e407-45e3-8be6-bf16873ece84.png)
+![Screenshot_10](https://user-images.githubusercontent.com/52851083/223358210-7145ab57-3654-4e44-aae9-db81d81284e6.png)
+![Screenshot_12](https://user-images.githubusercontent.com/52851083/223358214-d28904a7-baab-4373-a492-3092f6890761.png)
+![Screenshot_13](https://user-images.githubusercontent.com/52851083/223358222-883b64bf-3812-44ff-9d0f-2f993d29ecd7.png)
+![Screenshot_14](https://user-images.githubusercontent.com/52851083/223358232-67ea6023-ba43-4f93-ad68-33acdcf78246.png)
+![Screenshot_15](https://user-images.githubusercontent.com/52851083/223358235-ada453b2-d433-49b8-8e80-171251a2cf41.png)
+![Screenshot_16](https://user-images.githubusercontent.com/52851083/223358245-11d535c9-9765-4c65-8fcb-4bd3139e9861.png)
+![Screenshot_17](https://user-images.githubusercontent.com/52851083/223358249-1432dcf6-983e-4fc6-b2dd-e0b5538c859f.png)
+![Screenshot_19](https://user-images.githubusercontent.com/52851083/223358255-afec1108-c726-4b6e-bd8d-22e4d3d979d7.png)
+![Screenshot_20](https://user-images.githubusercontent.com/52851083/223358258-ee4d9520-ed06-4832-a4cb-464b23387fd5.png)
+![Screenshot_21](https://user-images.githubusercontent.com/52851083/223358261-e3d5af14-e10b-4f72-a183-f2b401e09b0b.png)
+![Screenshot_23](https://user-images.githubusercontent.com/52851083/223358266-3bab492b-c742-4972-8c8d-736ef4788619.png)
