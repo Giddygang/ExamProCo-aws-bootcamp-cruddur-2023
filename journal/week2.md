@@ -1,4 +1,4 @@
-Installed and Dynamodb 
+Installed and tested Dynamodb 
 ![Screenshot_25](https://user-images.githubusercontent.com/52851083/223354951-1a41d922-ca19-4245-bc66-6e59be7ab474.png)
 
 Installed postgres in my gitpod 
